@@ -1,5 +1,5 @@
 
-var through = require('through')
+var through = require('juliangruber-through')
 
 /**
  * `WorkerStream' constructor
